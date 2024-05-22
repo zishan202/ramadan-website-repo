@@ -36,12 +36,22 @@
             <h2>What is Ramadan?</h2>
             <p>Ramadan is the ninth month of the Islamic lunar calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection, and community. It is a time for spiritual growth, self-discipline, and empathy for those less fortunate.</p>
             <a href="about.html" class="btn">Learn More</a>
-        </div>
-        <!--scroll container-->
-        <div class="scroll-container">
-            <img src="ramadan-healthy-fasting.avif" alt="Cinque Terre" width="600" height="400">
-            <img src="The-Philosophy-of-Fasting-in-Ramadan.jpg"Forest" width="600" height="400">
-            <img src="edcc11b15bb6339446dcbe4f7bf9e535.avif" alt="Northern Lights" width="600" height="400">
-            <img src="ramadan-healthy-fasting.avif" alt="Mountains" width="600" height="400">
-          </div>
+
+<!--slideshow container--!>
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <img src="ramadan-healthy-fasting.avif" style="width:100%">
+    </div>
+  
+    <div class="mySlides fade">
+      <img src="islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183984.avif" style="width:100%">
+    </div>
+  
+    <div class="mySlides fade">
+      <img src="The-Philosophy-of-Fasting-in-Ramadan.jpg" style="width:100%">
+    </div>
+  
+        
     </section>
