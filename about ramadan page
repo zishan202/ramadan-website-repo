@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ramadan Website</title>
+    <!--linking to style-->
+    <link rel="stylesheet" href="eid.css">
+ <!--adding font from google-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <header>
+        <!--nav-->
+        <div id="navbar">
+            <h1><i>Ramadan Kareem.</i></h1>
+            <nav>
+                <ul>
+                    <!--buttons to go other pages-->
+                    <li><a href="index.html"><i>Home</i></a></li>
+                    <li><a href="about.html"><i>About Ramadan</i></a></li>
+                    <li><a href="prayer.html"><i>Prayers in Ramadan</i></a></li>
+                    <li><a href="history.html"><i>History of Ramadan</i></a></li>                   
+                </ul>
+            </nav>
+        </div>
+    </header>
