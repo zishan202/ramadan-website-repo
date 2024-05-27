@@ -28,3 +28,18 @@
             </nav>
         </div>
     </header>
+<!--content for first page(introduction)-->
+    <section class="hero">
+        <div class="container">
+            <h2><i>Welcome to my ramadan website!!</i></h2>
+            <p> learn the wonders of this special month, a month of fasting, prayer, reflection, and community. May all your sins be forgiven!!!</p>
+        </div>
+    </section>
+    <!--section classes for paragraphs-->
+    <section class="content">
+        <div class="container">
+            <h2>What is Ramadan?</h2>
+            <p>Ramadan is the ninth month of the Islamic lunar calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection, and community. It is a time for spiritual growth, self-discipline, and empathy for those less fortunate.</p>
+            <a href="about.html" class="btn">Learn More</a>
+            <a href="index.html" class="btn">Home</a>
+        </div>
