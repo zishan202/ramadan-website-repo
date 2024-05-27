@@ -37,6 +37,31 @@ header {
     color:white;
     padding: 20px 0;
     padding-bottom:20px;
+/*header font size*/
+header h1 {
+    font-size: 50px;
+}
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/*nav font color*/
+nav ul li a {
+    color: white;
+    
+}
+/*hero container background image*/
+.hero{
+    background-image: url(islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183984.avif);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+    text-align: center;
+    padding: 300px 0;
+}
     position: sticky;
     z-index: 1000;
     top: 0;
