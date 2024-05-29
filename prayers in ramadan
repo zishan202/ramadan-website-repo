@@ -27,3 +27,34 @@
             </nav>
         </div>
     </header>
+ <!--content for first page(introduction)-->
+    <section class="bg">
+        <div class="row">
+            <div class="column">
+           <p>Taraweeh</p>
+           <br>
+           <p><u>
+            A particular type of congregational prayer exclusive to the month of Ramadan is Taraweeh prayers, which are at night after breaking fast after evening prayer with physical movements akin to those Muslims do during their five daily salat.
+            This is twenty rakats, but it is permissible to do a minimum of 8 if one wishes. In Taraweeh, a hafiz, or one who has memorised the Quran, recites one chapter of the Quran each night while followers stand behind and pray along.
+            Throughout Ramadan, the Quran is read in its entirety, one chapter at a time. As reading the Quran (and finishing it, if you can), is highly recommended during Ramadan, attending Taraweeh prayers is a great way to absorb the virtues of the Quran in a congregational setting.</u></p>
+            </div>
+            <div class="column">
+             <p>Laylat ul-Qadr: The Night Of Power</p>
+           <br>
+             <p><u>laylat ul-Qadr: The Night Of Power As beneficial as all prayers are during Ramadan, any recited on Laylat ul-Qadr, or “The Night of Power,” receive the most reward.
+              Laylat Al Qadr is one of the holiest nights of Ramadan. It falls on the night of one of the odd days during the last ten days of Ramadan, often on the 27th day of the month.
+              This depends on the sight of the moon. It is the night the Prophet Muhammad (PBUH) received the first revelation of the Quran. Most mosques try to complete the recitation of the Quran on Laylat Al Qadr, and it is recommended for Muslims to attend Taraweeh at their local mosque on this night.
+              Muslims often try to spend the entire night in prayer, reciting surahs from the Quran and all sorts of supplications, whether personal or from scripture.
+              The importance of prayer and devotion on this night is unimaginable, as the Quran calls this night “better than a thousand months.”
+             </u></p>
+             </div>
+            <div class="column">
+            <p>Dhikr</p>
+           <br>
+            <p><u>
+            Dhikr, or prayers recited repeatedly in the remembrance of God, is often thought to be part of the Sufi Islamic tradition, when in fact, it is an integral part of all Muslims’ lives and essential during Ramadan.
+            A great way to connect with God while doing all the mundane chores of daily life (driving, waiting in line, preparing the evening meal) is to recite over and over these short phrases: Subhanallah, an expression used by Muslims to express strong feelings of joy or relief, recalls how everything Muslims have is thanks to Allah.
+            Alhamdulillah, or “Praise be to God!” (It is a Quranic exclamation with a similar meaning as hallelujah.)
+            Astaghfirullah, which means “I seek forgiveness from God” from mistakes and sins made.
+            Allahu Akbar, or “God is the Greatest.”</u></p>
+            </div>
