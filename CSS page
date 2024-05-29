@@ -92,4 +92,24 @@ nav ul li a {
 .hero p{
     color: white;
 
+/*section alignment and coloring*/
+section.content{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(65, 22, 3);
+}
+/*footer coloring*/
+footer{
+    color: white;
+    background-color: rgb(65, 22, 3);
+    text-size-adjust: 10px;
+    
+}
+/*navbar buttons hover*/
+a:hover{
+    background-color: black;
+    transition: 0.5s ease;
+}
+
     
