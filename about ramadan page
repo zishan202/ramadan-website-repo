@@ -43,6 +43,33 @@
             <a href="about.html" class="btn">Learn More</a>
             <a href="index.html" class="btn">Home</a>
         </div>
+<section class="hero">
+        <div class="row">
+            <div class="column">
+           <p>The Length and Purpose of Fasting</p>
+           <br>
+           <p><u>fast from pre-dawn to sunset, a fast of between 11-16 hours depending on the time of year for a period of 29-30 days. Ramadan entails forgoing food and drink. For Muslims, Ramadan is a time to train themselves both physically and spiritually by avoiding any negative acts such as gossiping, backbiting, lying, or arguing. Muslims welcome Ramadan as an opportunity for self-reflection and spiritual improvement, and as a means to grow in moral excellence. Ramadan is also a highly social time as Muslims invite each other to breakfast together and meet for prayers at the mosque.</u></p>
+            </div>
+            <div class="column">
+             <p>What is Ramadan?</p>
+           <br>
+             <p><u>Who Fasts? All Muslims who have reached puberty are obligated to fast. However, people for whom fasting would be a hardship are exempted from fasting. This includes anyone who is sick or traveling; women who are pregnant, nursing, or on their menses; or older people who are too weak or ill to fast. They should make up the fast later, except for those who cannot fast due to age or chronic illness. Instead, they can feed a poor person for every day of fasting which they miss.</u></p>
+             <br>
+             <p>where is ramadan celebrated?</p>
+             <br>
+             <p><u>Ramadan is celebrated by Muslims in all around the world. Different countries have different cultural traditions, but all countries are united in taking part in fasting. As Ramadan takes place based on the lunar calendar, it takes place in different countries at slightly different times.</u></p>
+            </div>
+            <div class="column">
+            <p>What are the rules of fasting</p>
+           <br>
+            <p><u> one of the Five Pillars of Islam (Sawm), fasting is the most important part of observing Ramadan in the Islamic faith. Throughout the history of Ramadan, Muslims have been expected to abstain from food and drink from dawn until sunset for 30 days. During Ramadan, rules dictate who should fast and those who are exempt.
+
+              All those fasting are to abstain from:
+              
+              food;
+              drink, including water;
+              chewing gum.</p></u>
+            </div>
              <style>
                 * {
                   box-sizing: border-box;
@@ -61,3 +88,4 @@
                   display: table;
                 }
             </style>
+
