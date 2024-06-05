@@ -43,17 +43,21 @@
     <!-- Full-width images with number and caption text -->
     <div class="mySlides fade">
       <img src="ramadan-healthy-fasting.avif" style="width:100%">
+<!--added text under slideshow-->
+<p>The way to know when Ramadan starts is by observing the phases of the Moon. The New Moon signals the end of an Islamic month, and so Muslims look to see the first signs of the growing Moon to know when to begin fasting.</p>
     </div>
   
     <div class="mySlides fade">
       <img src="islamic-style-lantern-design-ramadan-celebration-with-copy-space_23-2151183984.avif" style="width:100%">
+<p>Ramadan typically lasts for 29 to 30 days, ending with the celebration of Eid al-Fitr and the beginning of the tenth month, Shawwal.</p>
     </div>
   
     <div class="mySlides fade">
       <img src="The-Philosophy-of-Fasting-in-Ramadan.jpg" style="width:100%">
+ <p>Throughout the history of Ramadan, fasting between sunrise and sunset serves the purpose of demonstrating one's devotion to Allah and belief in the Prophet Muhammad (PBUH). Ramadan is a time for fasting (sawm), prayer, reflection and community.</p>
     </div>
 <script>
-//*the slideshow will be automated and change every 7 seconds*//
+//*the slideshow will be automated and change every 5 seconds*//
           let slideIndex = 0;
 showSlides();
 
@@ -66,7 +70,7 @@ function showSlides() {
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
   slides[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, 5000); // Change image every 7 seconds
+  setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
           </script>
         
